@@ -29,8 +29,9 @@ I will soon post official Medium blogs written by many members of the team in co
 
 -------
 
-## License
+## Credits
 
+**Any and all references to the code, charts, numerics, metrics, or anything else contained in this repository must be credited to Omdena with an appropriate citation**. 
 
 ---
 
