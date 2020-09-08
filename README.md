@@ -1,4 +1,5 @@
-# **PREDICTING ILLEGAL DUMPSITES** [![HitCount](http://hits.dwyl.com/ramanshsharma2806/Predicting-Dumpsites.svg)](http://hits.dwyl.com/ramanshsharma2806/Predicting-Dumpsites)
+# **PREDICTING ILLEGAL DUMPSITES** 
+[![HitCount](http://hits.dwyl.com/ramanshsharma2806/Predicting-Dumpsites.svg)](http://hits.dwyl.com/ramanshsharma2806/Predicting-Dumpsites)
 
 
 ## Introduction
