@@ -26,7 +26,7 @@ This repository contains the jupyter notebook that I worked on with other collab
 
 ## Article
 
-I will soon post official Medium blogs written by many members of the team in collaboration to describe the project specifics in much greater detail. Stay tuned!
+Here is the official article written by the Omdena team for this project: [https://omdena.com/blog/illegal-dumping](https://omdena.com/blog/illegal-dumping)
 
 -------
 
